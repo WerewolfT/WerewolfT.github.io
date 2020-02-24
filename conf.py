@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -14,17 +14,17 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": False,
-    "repo": ""
+    "enabled": True,
+    "repo": "WerewolfT/WerewolfT.github.io@master"
 }
 
 # 站点设置
 site_name = "子夜之歌"
 site_logo = "${static_prefix}logo.png"
-site_build_date = "2019-12-18T16:51+08:00"
+site_build_date = "2018-11-03T19:52+08:00"
 author = "夜歌"
-email = "test@test"
-author_homepage = "https://test.test"
+email = "alpha@tanner.pub"
+author_homepage = "https://tanner.pub"
 description = "灵魂渴慕星空。"
 key_words = []
 language = 'zh-CN'
