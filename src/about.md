@@ -7,7 +7,7 @@ status: publish
 author: Tanner
 categories: 
 tags: 
-  - theme
+  - about
 ---
 
 没有任何人会像青年那样深深陷入孤独之中，渴望被人接近和理解，没有任何人像青年那样站在遥远的地方，向人们呼唤着。
