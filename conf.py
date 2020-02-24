@@ -18,41 +18,43 @@ enable_jsdelivr = {
     "repo": "WerewolfT/WerewolfT.github.io@master"
 }
 
-# 站点设置
+# For site
 site_name = "子夜之歌"
-site_logo = "${static_prefix}logo.png"
+site_logo = "${static_prefix}android-chrome-512x512.png"
 site_build_date = "2018-11-03T19:52+08:00"
-author = "夜歌"
+author = "Tanner"
 email = "alpha@tanner.pub"
-author_homepage = "https://tanner.pub"
-description = "灵魂渴慕星空。"
-key_words = []
-language = 'zh-CN'
-external_links = [
-    {
-        "name": "Maverick",
-        "url": "https://github.com/AlanDecode/Maverick",
-        "brief": "🏄‍ Go My Own Way."
-    },
-    {
-        "name": "三無計劃",
-        "url": "https://www.imalan.cn",
-        "brief": "熊猫小A的主页。"
-    }
-]
+author_homepage = "/"
+description = "灵魂渴慕星空"
+key_words = ["blog"]
+language = 'english'
+
+#external_links = [
+#    {
+#       "name": "Maverick",
+#        "url": "https://github.com/AlanDecode/Maverick",
+#        "brief": "🏄‍ Go My Own Way."
+#    },
+#    {
+#        "name": "Triple NULL",
+#        "url": "https://www.imalan.cn",
+#        "brief": "Home page for AlanDecode."
+#    }
+#]
+
 nav = [
     {
-        "name": "首页",
+        "name": "Home",
         "url": "${site_prefix}",
         "target": "_self"
     },
     {
-        "name": "归档",
+        "name": "Archives",
         "url": "${site_prefix}archives/",
         "target": "_self"
     },
     {
-        "name": "关于",
+        "name": "About",
         "url": "${site_prefix}about/",
         "target": "_self"
     }
@@ -61,7 +63,7 @@ nav = [
 social_links = [
     {
         "name": "Twitter",
-        "url": "https://twitter.com/AlanDecode",
+        "url": "https://twitter.com/_WTanner",
         "icon": "gi gi-twitter"
     },
     {
@@ -72,7 +74,7 @@ social_links = [
     {
         "name": "Weibo",
         "url": "https://weibo.com/5245109677/",
-        "icon": "gi gi-weibo"
+        "icon": "gi gi-telegram"
     }
 ]
 
