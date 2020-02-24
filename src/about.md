@@ -20,6 +20,6 @@ tags:
 
 ## Contact
 
-Email: alpha#tanner.pub (replace # with @)
+Email: alpha#tanner.pub(replace # with @)
 
 Telegram：[野鸽](https://t.me/Wanner)
